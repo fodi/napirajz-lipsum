@@ -1,0 +1,54 @@
+<!-- miért, te jól olvasod a HTML-t? -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lorem Ipsum Dadogom Skezony Amakun | Napirajz Lorem Ipsum generátor</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <div class="text-center">
+                <h1 style="margin-bottom: 0">Lorem Ipsum Dadogom Skezony Amakun</h1>
+                <h2 style="margin: 0 0 1em"><small>(Napirajz Lorem Ipsum generátor)</small></h2>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-3">
+                    <label for="input-paragraphs">Bekezdések</label>
+                    <input type="tel" class="form-control" id="input-paragraphs" value="3">
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="input-sentences-per-paragraph">Mondatok egy bekezdésben</label>
+                    <input type="tel" class="form-control" id="input-sentences-per-paragraph" value="8">
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="input-words-per-sentence-min">Kifejezések egy mondatban (min)</label>
+                    <input type="tel" class="form-control" id="input-words-per-sentence-min" value="3">
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="input-words-per-sentence-max">Kifejezések egy mondatban (max)</label>
+                    <input type="tel" class="form-control" id="input-words-per-sentence-max" value="15">
+                </div>
+                <div class="form-group col-md-3">
+                    <div class="checkbox">
+                        <label>
+                            <input id="input-add-links" type="checkbox"> Kell. Bele. Link!
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group col-md-9">
+                    <button type="button" class="btn btn-primary btn-block" onclick="generate()">Működj, anyag, működj!</button>
+                </div>
+            </div>
+            <div id="output" class="well hidden"><!-- biztosan jól el van ez rejtvedezső? -->
+
+            </div>
+            <div class="text-muted text-center" style="margin-top: 3em">Napirajz by <a href="https://napirajz.hu/" target="_blank">Grafitember</a>. Gyopár-eke kód by <a href="https://fodi.be" target="_blank">Fodi</a>. Ha valami szar, <a href="https://github.com/fodi/napirajz-lipsum" target="_blank">csinálj issue-t, küldj pull request</a>.<br>Ez az oldal teljesen ánöfisöl.</div>
+        </div>
+        <script src="assets/jquery/js/jquery-3.4.1.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/app/js/data.js"></script>
+        <script src="assets/app/js/app.js"></script>
+    </body>
+</html>
