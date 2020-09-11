@@ -13,13 +13,11 @@ let words = Object.keys(wordsFilenames);
 
 // ragazmámeg, dezső!
 function generate() {
-    let countParagraphs = $('#input-paragraphs').val();
-    let countSentencesPerParagraph = $('#input-sentences-per-paragraph').val();
-    let countWordsPerSentenceMin = $('#input-words-per-sentence-min').val();
-    let countWordsPerSentenceMax = $('#input-words-per-sentence-max').val();
+    let countParagraphs = parseInt($('#input-paragraphs').val());
+    let countSentencesPerParagraph = parseInt($('#input-sentences-per-paragraph').val());
+    let countWordsPerSentenceMin = parseInt($('#input-words-per-sentence-min').val());
+    let countWordsPerSentenceMax = parseInt($('#input-words-per-sentence-max').val());
     let addLinks = $('#input-add-links').prop('checked');
-
-    console.log("addLinks: " + addLinks);
 
     let outputHTML = '';
     for (let i = 0; i < countParagraphs; i++) {
