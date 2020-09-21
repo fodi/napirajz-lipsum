@@ -157,7 +157,7 @@ var filenamesWords = {
     "delta1.jpg": "szlopakikki",
     "deszkákat.jpg": "wroooooooo angstschweiss dűűű ebeb tüt tütá honk emő üdűű kerrrr hlavin eins",
     "detudtam.jpg": "grotun bőnt hekk ekkaton",
-    "dinnye.jpg": "kredalán amakun kandán hlöhh csák slec",
+    "dicseret.jpg": "kredalán amakun kandán hlöhh csák slec",
     "diszkretebben.jpg": "szfőr szfr fler vrvrvrn",
     "doboz.jpg": "glett",
     "drotkefe.jpg": "kanz",
