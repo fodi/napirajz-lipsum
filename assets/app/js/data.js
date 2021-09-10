@@ -186,6 +186,14 @@ var filenamesWords = {
     "ezustnyakek.jpg": "páoíííííjjj",
     "ezzelapicsaval.jpg": "hmpf plakk dunk",
     "F1_E01.jpg": "rapapapam tíratí rarapapam tíratíri tírití raríra pam rapam parííí pappaparira parira pappa rittitti tirarirarirapam rramm pappíra pappiraríí tarira rirara pramm ramm papam",
+    "F1_E03.jpg": "pop",
+    "F1_E04.jpg": "frepó frrrrr rrr",
+    "F1_E05j.jpg": "peteee pappara pam pa-pamm"
+    "F2_E01.jpg": "rapa-pa-pamm",
+    "F2_E03.jpg": "fleszk hrep hrap zazazaza baf slaszkacsinn",
+    "F2_E04-1.jpg": "tram_tratatatam_ta pam_pa_pam_pam",
+    "F2_E05.jpg": "tok hork clak",
+    "F2_E06_finale.jpg": "shipp stág wham pim parariram pam-pam",
     "faklyafeny.jpg": "pot",
     "fejezdabba.jpg": "sfazin",
     "fela_lecsot.jpg": "trapapapapam muk puk klap",
@@ -207,11 +215,13 @@ var filenamesWords = {
     "froccsbe.jpg": "stok",
     "froccsot.jpg": "pitty gle",
     "fulladni.jpg": "boom",
+    "furcsa_szine_volt.jpg": "zug",
     "gigagyik.jpg": "diőáppudib váppádáppá fzinn peőjj",
     "gombre_van.jpg": "schluß",
     "graham_torvenye.jpg": "flop tzk zakk frakk",
     "granulatumot.jpg": "pecc",
     "grof-ur.jpg": "krááter passz",
+    "gtk.jpg": "nyámnyila skazzarikazrazakó klán",
     "gumipokozva.jpg": "quake hranulák puk zohooo",
     "gyemanttal.jpg": "zala zlákat znipel kahun zabi kahmann kaszabi zu-zuha zakulon zuhanik",
     "gyorsitot.jpg": "passz kalács",
@@ -353,6 +363,8 @@ var filenamesWords = {
     "P2.jpg": "tlik ketlik",
     "pah.jpg": "glandz swoo fssz",
     "pancsokat.jpg": "háp",
+    "PAUZA_1.jpg": "horp hrippa hropó baß",
+    "PAUZA_2.jpg": "gnot snörth ding dong e_uffffffffrátessz",
     "PH_48_B.jpg": "nyinnyinnyi blam",
     "pitypangos_fuzetem.jpg": "pity dum",
     "platina.jpg": "piúiúííí",
@@ -400,6 +412,7 @@ var filenamesWords = {
     "szepcsajok.jpg": "fossz vuk",
     "szepnagyokat.jpg": "sec_pec",
     "szerzodtetlek.jpg": "skaszaklin tubidubi düptüptüp",
+    "szinezok_kozt.jpg": "pritty",
     "szisztemaba.jpg": "pity skasszan dittersdorf bott esini",
     "szobron.jpg": "szfikiiiiii",
     "teaval.jpg": "tripp tiripp blopp",
@@ -436,3 +449,5 @@ var filenamesWords = {
     "zsaratnok_kicsi.jpg": "klap",
     "zserboval.jpg": "pík"
 };
+
+// utolsó update: https://napirajz.hu/gtk/
