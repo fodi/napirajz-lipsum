@@ -188,7 +188,7 @@ var filenamesWords = {
     "F1_E01.jpg": "rapapapam tíratí rarapapam tíratíri tírití raríra pam rapam parííí pappaparira parira pappa rittitti tirarirarirapam rramm pappíra pappiraríí tarira rirara pramm ramm papam",
     "F1_E03.jpg": "pop",
     "F1_E04.jpg": "frepó frrrrr rrr",
-    "F1_E05j.jpg": "peteee pappara pam pa-pamm"
+    "F1_E05j.jpg": "peteee pappara pam pa-pamm",
     "F2_E01.jpg": "rapa-pa-pamm",
     "F2_E03.jpg": "fleszk hrep hrap zazazaza baf slaszkacsinn",
     "F2_E04-1.jpg": "tram_tratatatam_ta pam_pa_pam_pam",
