@@ -221,7 +221,7 @@ var filenamesWords = {
     "graham_torvenye.jpg": "flop tzk zakk frakk",
     "granulatumot.jpg": "pecc",
     "grof-ur.jpg": "krááter passz",
-    "gtk.jpg": "nyámnyila skazzarikazrazakó klán",
+    "gtk.jpg": "nyámnyila skazzarikazrazakó stunk klán",
     "gumipokozva.jpg": "quake hranulák puk zohooo",
     "gyemanttal.jpg": "zala zlákat znipel kahun zabi kahmann kaszabi zu-zuha zakulon zuhanik",
     "gyorsitot.jpg": "passz kalács",
