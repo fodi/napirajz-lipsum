@@ -447,7 +447,21 @@ var filenamesWords = {
     "waltzer.jpg": "klimt ko_kos_ka",
     "XX_teton_at.jpg": "buhm dörr pán tyabu pityu",
     "zsaratnok_kicsi.jpg": "klap",
-    "zserboval.jpg": "pík"
+    "zserboval.jpg": "pík",
+    "rajtamkivul-1.jpg": "spohr  prit pritamin osnabrück rudapity",
+    "otodik_perctol.jpg": "brno",
+    "utolso_pet.jpg": "flap",
+    "rittig_ott.jpg": "kutter",
+    "azzal_a_szoveggel.jpg": "belét tap",
+    "a_kornyeken_sem.jpg": "drilling drinking chutney",
+    "4_percem.jpg": "serc",
+    "vagy_van_hal.jpg": "pukk",
+    "azthittemragozik.jpg": "harghraaaaaaahhr",
+    "hallanank.jpg": "klatty",
+    "kiskaliber.jpg": "smetana kant dardzsiling",
+    "nincs_oldalszel.jpg": "flepni kalács",
+    "megkapo_dalain.jpg": "plin plun boismortier vogelzang heifetz tz",
+    "mellekszal.jpg": "slukk josquin gor_don sampon csikiri",
 };
 
-// utolsó update: https://napirajz.hu/gtk/
+// utolsó update: https://napirajz.hu/rajtamkivul/
