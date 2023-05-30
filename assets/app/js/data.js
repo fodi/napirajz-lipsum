@@ -462,6 +462,15 @@ var filenamesWords = {
     "nincs_oldalszel.jpg": "flepni kalács",
     "megkapo_dalain.jpg": "plin plun boismortier vogelzang heifetz tz",
     "mellekszal.jpg": "slukk josquin gor_don sampon csikiri",
+    "eh_1_tomlo.jpg": "badumm tssssssss",
+    "lemasolni.jpg": "hmf basquiat pity",
+    "de_ugye_nem_covid.jpg": "hradec kh krr frappé acsu szartarifaruhaszarv aszirénaszúraszava raszterasztaliteni szerepelaszaga szegezer geraszta ravaaszba sztaszar baszét",
+    "csagunyin.jpg": "tirara trirari raaaa rarira tiriri rírárííí vanilin",
+    "sajatkezuleg.jpg": "pim",
+    "A_csokigyaros.jpg": "vao vaooo vvroooo tzk",
+    "unboxing.jpg": "csárda baszódj+ kecs",
+    "egyedul_is.jpg": "kassz",
+    "patron.jpg": "gergő",
 };
 
 // utolsó update: https://napirajz.hu/rajtamkivul/
