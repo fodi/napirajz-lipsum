@@ -473,4 +473,4 @@ var filenamesWords = {
     "patron.jpg": "gergő",
 };
 
-// utolsó update: https://napirajz.hu/rajtamkivul/
+// utolsó update: https://napirajz.hu/tiborra/
