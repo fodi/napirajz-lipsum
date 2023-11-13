@@ -471,6 +471,10 @@ var filenamesWords = {
     "unboxing.jpg": "csárda baszódj+ kecs",
     "egyedul_is.jpg": "kassz",
     "patron.jpg": "gergő",
+    "gondoltam_ra.jpg": "dundi",
+    "premium_betutipus.jpg": "tápatííí vinyúnyá haörr tröppaörrrr ramazuri kanyíííí uíííí határőr tik katik habawba habihu",
+    "ket_deci.jpg": "varroda rombol",
+    "ormotlan.jpg": "daktilusz",
 };
 
-// utolsó update: https://napirajz.hu/tiborra/
+// utolsó update: https://napirajz.hu/ormotlan/
